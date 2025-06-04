@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
 - 🌐 Web Development (Frontend & Backend)
 - 📱 Mobile App Development
 - 🎮 Game Design & Development
-- 🧠 AI & Machine Learning
 - 🎨 UI/UX Design
 - 💻 Open Source Projects
 
@@ -35,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
 - 📧 Email: `cheangseyha2208@gmail.com`
 - 💼 LinkedIn: [Cheang Seyha](https://www.linkedin.com/in/cheang-seyha-1b70a6337/)
 - 🌍 Portfolio: [cheangseyha.vercel.app](https://cheangseyha.vercel.app/)
-- 📘 Facebook: (https://web.facebook.com/cheang.seyha.50)
-- 📸 Instagram: (https://www.instagram.com/sxyha/)
+- 📘 Facebook: https://web.facebook.com/cheang.seyha.50
+- 📸 Instagram: https://www.instagram.com/sxyha/
 
 ---
 
