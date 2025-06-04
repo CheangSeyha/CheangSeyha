@@ -32,10 +32,11 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
 ---
 
 ## 📫 How to reach me:
-- 📧 Email: `youremail@example.com`
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- 🌍 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: `cheangseyha2208@gmail.com`
+- 💼 LinkedIn: [Cheang Seyha](https://www.linkedin.com/in/cheang-seyha-1b70a6337/)
+- 🌍 Portfolio: [cheangseyha.vercel.app](https://cheangseyha.vercel.app/)
+- 📘 Facebook: [[Cheang Seyha](https://www.facebook.com/yourfacebookusername) ](https://web.facebook.com/cheang.seyha.50)
+- 📸 Instagram: [[@yourhandle](https://www.instagram.com/yourinstagramhandle) ](https://www.instagram.com/sxyha/)
 
 ---
 
