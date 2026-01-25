@@ -4,12 +4,13 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CheangSeyha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheangSeyha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats-git-masterhstl.vercel.app/api?username=CheangSeyha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Seyha's GitHub stats" height="170" />
+  
+  <img src="https://github-readme-stats-git-masterhstl.vercel.app/api/top-langs/?username=CheangSeyha&layout=compact&theme=tokyonight&hide_border=true" alt="Seyha's Top Langs" height="170" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=CheangSeyha&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=CheangSeyha&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 
