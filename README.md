@@ -2,6 +2,25 @@
 
 Welcome to my GitHub profile! I'm a passionate and curious individual always eager to explore and learn new things in the tech world. Here's a bit about me:
 
+## 🤝 Connect with Me
+<p align="left">
+  <a href="https://facebook.com/your-username">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>&nbsp;
+
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+
+  <a href="https://instagram.com/your-username">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+
+  <a href="https://t.me/your-username">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CheangSeyha&show_icons=true&theme=tokyonight&hide_border=true" alt="Seyha's GitHub stats" height="170" />
