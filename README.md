@@ -30,5 +30,5 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
   <img src="https://cdn.simpleicons.org/github/white" width="45" alt="github" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" alt="gitlab" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="45" alt="cloudflare" />&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/white" width="45" alt="vercel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" width="45" style="filter: invert(100%);" alt="vercel" />
 </p>
