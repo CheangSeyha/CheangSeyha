@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
 
 ## 🛠️ Tech Stack
 
-### Languages and Frontend
+### Frontend
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="html5" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="css3" />&nbsp;
