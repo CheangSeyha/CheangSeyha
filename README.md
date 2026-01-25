@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="ts" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="react" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="nextjs" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="45" alt="nextjs" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="vuejs" />
 </p>
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" alt="nestjs" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="java" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="mongodb" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="mysql" />
+  <img src="https://cdn.simpleicons.org/mysql/white" width="45" alt="mysql" />
 </p>
 
 ### DevOps and Cloud
@@ -30,6 +30,5 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
   <img src="https://cdn.simpleicons.org/github/white" width="45" alt="github" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" alt="gitlab" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="45" alt="cloudflare" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" alt="vercel" />
-</p>
+  <img src="https://cdn.simpleicons.org/vercel/white" width="45" alt="vercel" />
 </p>
