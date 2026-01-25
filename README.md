@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I'm a passionate and curious individual always eag
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="(https://www.facebook.com/cheang.seyha.50)">
+  <a href="https://www.facebook.com/cheang.seyha.50">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;
 
-  <a href="(https://www.linkedin.com/in/cheang-seyha-1b70a6337/)">
+  <a href="https://www.linkedin.com/in/cheang-seyha-1b70a6337/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
 
-  <a href="(https://www.instagram.com/sxyha/)">
+  <a href="https://www.instagram.com/sxyha/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
 
-  <a href="(https://t.me/AxgusTC)">
+  <a href="https://t.me/AxgusTC">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
