@@ -1,12 +1,16 @@
 # 👋 Hi there! I'm Cheang Seyha
 
 Welcome to my GitHub profile! I'm a passionate and curious individual always eager to explore and learn new things in the tech world. Here's a bit about me:
-
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="left">
-  <img src="https://your-new-domain.vercel.app/api?username=CheangSeyha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Seyha's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheangSeyha&layout=compact&theme=tokyonight" alt="Seyha's Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CheangSeyha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheangSeyha&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=CheangSeyha&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 
 ## 💻Tech Stack
 
